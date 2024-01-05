@@ -1,1 +1,1 @@
-# ML_OPS_EXERCISES
+# dtu-ml-ops-exercises
